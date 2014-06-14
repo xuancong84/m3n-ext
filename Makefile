@@ -1,5 +1,5 @@
 CC = g++
-CFLAGS = -O0 -g -w -Wall -Wno-deprecated -L.
+CFLAGS = -O3 -w -Wall -Wno-deprecated -L.
 OBJ  = ./main.o ./m3n.o ./fun.o
 LINKOBJ  = ./main.o ./m3n.o ./fun.o
 BIN  = ./m3n-ext

@@ -1,0 +1,10 @@
+
+To compile and install in Linux:
+make clean
+make
+
+This will copy the binary executable m3n-ext to your $HOME/bin folder as well.
+
+Compilation in Visual Studio is not tested, you need to rebuild project file on your own.
+
+
