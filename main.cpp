@@ -784,6 +784,6 @@ int main(int argc, char *argv[]){
 	else if(argc>=2 && !strcmp(argv[1],"score"))
 		return main_score(argc,argv);
 	else
-		cerr<<"invalid parameter, type 'm3n learn/test/print -h' for help"<<endl;
+		cerr<<"invalid parameter, type 'm3n learn/test/print/score -h' for help"<<endl;
 	return 0;
 }
