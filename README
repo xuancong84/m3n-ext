@@ -1,10 +1,11 @@
+1. m3n-ext
+The extended toolkit supporting direct feature functions, STDIO and auto gzip/gunzip
 
-To compile and install in Linux:
-make clean
-make
 
-This will copy the binary executable m3n-ext to your $HOME/bin folder as well.
 
-Compilation in Visual Studio is not tested, you need to rebuild project file on your own.
+
+2. fm3n: Factorial Max-margin Markov Networks
+it supports multiple layers
+performance optimized
 
 
